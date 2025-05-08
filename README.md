@@ -11,9 +11,9 @@ An end‑to‑end project that pulls Apple (AAPL) daily stock prices from Alpha�
 | Folder / file | Purpose |
 |---------------|---------|
 | `scripts/fetch_data.py` | Python script: download OHLC data, add RSI & MACD, save CSVs |
-| `srcnotebooks/technical_analysis.ipynb` | Jupyter notebook: 30‑day Prophet forecast |
+| `notebooks/technical_analysis.ipynb` | Jupyter notebook: 30‑day Prophet forecast |
 | `data/` | Output CSVs  |
-| `dashboard/AAPL_dashboard.pbix` | Power BI report (interactive dashboard) |
+| `dashboard/aapl_analysis.pbix` | Power BI report (interactive dashboard) |
 | 
 
 ---
