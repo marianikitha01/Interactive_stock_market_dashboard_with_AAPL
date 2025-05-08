@@ -1,5 +1,5 @@
 # Interactive-Stock-Market-Dashboard-with-Alpha-Vantage
-# AAPL Stock Dashboard
+## AAPL Stock Dashboard
 
 ![Dashboard Screenshot](dashboard/Image/Dashboard_image.png)
 
