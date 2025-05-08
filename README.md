@@ -14,7 +14,7 @@ An end‑to‑end project that pulls Apple (AAPL) daily stock prices from Alpha�
 | `notebooks/technical_analysis.ipynb` | Jupyter notebook: 30‑day Prophet forecast |
 | `data/` | Output CSVs  |
 | `dashboard/aapl_analysis.pbix` | Power BI report (interactive dashboard) |
-| 
+
 
 ---
 
